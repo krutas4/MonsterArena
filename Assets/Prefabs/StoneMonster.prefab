@@ -83,6 +83,27 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1341821620899066132, guid: 315a10f58eb118b4e905f196805566ef,
         type: 3}
+    - target: {fileID: 5072936627982016750, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: title
+      value: Steinmonster
+      objectReference: {fileID: 0}
+    - target: {fileID: 5072936627982016750, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: element
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5072936627982016750, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: attackName
+      value: Steinattacke
+      objectReference: {fileID: 0}
+    - target: {fileID: 5072936627982016750, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: attackEffect
+      value: 
+      objectReference: {fileID: 1341821620899066132, guid: 315a10f58eb118b4e905f196805566ef,
+        type: 3}
     - target: {fileID: 5334484404986094802, guid: b4d7d739dc59e234a960b06cd94f5db2,
         type: 3}
       propertyPath: title

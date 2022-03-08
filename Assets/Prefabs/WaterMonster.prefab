@@ -83,6 +83,27 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6594843116979442414, guid: 6d047e6cb0f86ec42b08ee33239bdf53,
         type: 3}
+    - target: {fileID: 5072936627982016750, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: title
+      value: Wassermonster
+      objectReference: {fileID: 0}
+    - target: {fileID: 5072936627982016750, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: element
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5072936627982016750, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: attackName
+      value: Wasserattacke
+      objectReference: {fileID: 0}
+    - target: {fileID: 5072936627982016750, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: attackEffect
+      value: 
+      objectReference: {fileID: 6594843116979442414, guid: 6d047e6cb0f86ec42b08ee33239bdf53,
+        type: 3}
     - target: {fileID: 5334484404986094802, guid: b4d7d739dc59e234a960b06cd94f5db2,
         type: 3}
       propertyPath: title
