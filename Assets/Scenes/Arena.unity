@@ -184,8 +184,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: vs
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 1ceff971540370842baaa2a7e3fa9fc6, type: 2}
-  m_sharedMaterial: {fileID: 7757253130715448016, guid: 1ceff971540370842baaa2a7e3fa9fc6,
+  m_fontAsset: {fileID: 11400000, guid: 22af827444aabc343b79fb72fe24163c, type: 2}
+  m_sharedMaterial: {fileID: 1407257753720840579, guid: 22af827444aabc343b79fb72fe24163c,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -246,10 +246,10 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -46.39141, y: 0, z: -50.21821, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &66789067
@@ -987,9 +987,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1139607209}
-  m_LocalRotation: {x: 0, y: 0.8161376, z: 0, w: 0.5778576}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 6.73, y: -1.14, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: -1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 444636211}
@@ -1485,6 +1485,12 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1911254241458383538, guid: 304951a2bb3e06a49b5f91e63d342c28,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1407257753720840579, guid: 22af827444aabc343b79fb72fe24163c,
+        type: 2}
     - target: {fileID: 1911254241458383538, guid: 304951a2bb3e06a49b5f91e63d342c28,
         type: 3}
       propertyPath: m_HorizontalAlignment
