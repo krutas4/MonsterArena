@@ -222,6 +222,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1911254242020722089}
   - component: {fileID: 4430853663626783436}
+  - component: {fileID: 182513424283472033}
   m_Layer: 5
   m_Name: MonsterUI
   m_TagString: Untagged
@@ -277,6 +278,21 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!114 &182513424283472033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1911254242020722088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 285edaddce9276b4b82c8b3c9f48cb8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: {fileID: 6429879342381748024}
+  healthSlider: {fileID: 887294302813109236}
+  healthText: {fileID: 5714743094541489462}
 --- !u!1 &6332572025302563553
 GameObject:
   m_ObjectHideFlags: 0
