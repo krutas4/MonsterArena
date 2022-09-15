@@ -42,6 +42,52 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1582451210955841220, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: title
+      value: Fire
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582451210955841220, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: attackName
+      value: Fondue Schuss
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582451210955841220, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: attackEffect
+      value: 
+      objectReference: {fileID: 1812578938348124872, guid: 472f6d8a7d2193246bfc50d0cfe5466b,
+        type: 3}
+    - target: {fileID: 1582451210955841220, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: onDamaged.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582451210955841220, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: onFainted.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582451210955841220, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: onDamaged.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582451210955841220, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: onFainted.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582451210955841220, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: onDamaged.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582451210955841220, guid: b4d7d739dc59e234a960b06cd94f5db2,
+        type: 3}
+      propertyPath: onFainted.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 2611716129881928120, guid: b4d7d739dc59e234a960b06cd94f5db2,
         type: 3}
       propertyPath: m_RootOrder
